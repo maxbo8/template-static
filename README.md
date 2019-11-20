@@ -7,4 +7,4 @@
 - CSS;
 - jQuery.
 
-### Demo  [Star Wars: The Rise of Skywalker](https://maxbo8.github.io/template-static/).
+### Demo  [Star Wars: The Rise of Skywalker](https://maxbo8.github.io/template-static/index.html).
